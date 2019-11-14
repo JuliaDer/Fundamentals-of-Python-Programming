@@ -1,6 +1,0 @@
-number = int(input())
-print(number * str('    _~_   '))
-print(number * str('   (o o)  '))
-print(number * str('  /  V  \\ '))
-print(number * str(' /(  _  )\\'))
-print(number * str('   ^^ ^^  '))
